@@ -1,0 +1,12 @@
+{
+  "name": "cave",
+  "id": "6736772",
+  "description": "",
+  "gitUrl": "",
+  "workspaceType": "cs50-2017-001",
+  "dockerBaseImage": "cloud9/ws-cs50:2018-09-28T21-31-38Z",
+  "owner": {
+    "name": "letonus",
+    "id": "2036486"
+  }
+}

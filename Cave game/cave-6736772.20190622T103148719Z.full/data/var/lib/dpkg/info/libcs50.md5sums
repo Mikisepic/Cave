@@ -1,0 +1,12 @@
+ceb04dd466991f7d62ee6f274deac533  usr/local/include/cs50.h
+d192af5552308a12a0e036405ff0378d  usr/local/lib/libcs50.so.8.1.2
+648b0ff636c432b9f7e819938a3d9ea0  usr/local/share/man/man3/eprintf.3
+d6c6daa4fe3891a8fd29d35931f90d98  usr/local/share/man/man3/get_char.3
+ed63bdbf3cd33ca2e3ecb76cd7b50e96  usr/local/share/man/man3/get_double.3
+ff36aa1beb08132b54e764a4770bd785  usr/local/share/man/man3/get_float.3
+976a628272ced4adb3cc5df97732fac2  usr/local/share/man/man3/get_int.3
+f6a387d5915837fb3327851de792e735  usr/local/share/man/man3/get_long.3
+f4d6c93402248293fff802f410d1cdea  usr/local/share/man/man3/get_long_long.3
+949f2eb06038e2740ccdd6b82824b3a3  usr/local/share/man/man3/get_string.3
+11a9b26b41d5dd036a8502f365e0d8b3  usr/local/src/cs50.c
+0eb227b0d25c2a2523f59aec850c539c  usr/share/doc/libcs50/changelog.gz

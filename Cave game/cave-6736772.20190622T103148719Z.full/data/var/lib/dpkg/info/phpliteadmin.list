@@ -1,0 +1,14 @@
+/.
+/opt
+/opt/cs50
+/opt/cs50/phpliteadmin
+/opt/cs50/phpliteadmin/share
+/opt/cs50/phpliteadmin/share/phpliteadmin.css
+/opt/cs50/phpliteadmin/share/phpliteadmin.php
+/opt/cs50/phpliteadmin/bin
+/opt/cs50/phpliteadmin/bin/phpliteadmin
+/usr
+/usr/share
+/usr/share/doc
+/usr/share/doc/phpliteadmin
+/usr/share/doc/phpliteadmin/changelog.gz

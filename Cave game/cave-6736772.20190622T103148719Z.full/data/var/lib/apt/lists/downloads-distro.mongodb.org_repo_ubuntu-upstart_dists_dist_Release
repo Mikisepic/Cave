@@ -1,0 +1,30 @@
+
+Origin: mongodb
+Label: mongodb
+Suite: mongodb
+Codename: dist
+Version: dist
+Architectures: i386 amd64
+Components: 10gen
+Description: mongodb packages
+Date: Wed, 23 Mar 2016 18:30:40 UTC
+MD5Sum:
+ 81550eedd1ffe653d1aff54a758c9ec1           554089 10gen/binary-amd64/Packages
+ 37be4fb7817e26ed16c24279786d8ee2            29824 10gen/binary-amd64/Packages.gz
+ 3984173dab78095fbbca185d50b361bb           553461 10gen/binary-i386/Packages
+ 01f56f55316e3e4bf7b0e30fe239003d            29630 10gen/binary-i386/Packages.gz
+SHA1:
+ ad28c514dd930a9aa09838df7c9f95672676b9a3           554089 10gen/binary-amd64/Packages
+ 912737a765d08bd0a8f04231e93e72cebac81ff9            29824 10gen/binary-amd64/Packages.gz
+ 33e8f35ae697f7d000d0fad90d32b97597cea49b           553461 10gen/binary-i386/Packages
+ b2c3130ed736596637c5b260d4871097850a298e            29630 10gen/binary-i386/Packages.gz
+SHA256:
+ 95e1dc04dda4d0b0601bdf4b69e7ba68a656383c3e76443f9aec66bcf20910b1           554089 10gen/binary-amd64/Packages
+ db828a16a3fb4457ed7e8f09c1e7e1a2dc9dff776dd175cb2b4bac914ebd755a            29824 10gen/binary-amd64/Packages.gz
+ b5419185241a4d6aee564796fb8528d52c17fd098d1009c85e79c735b8f0cd25           553461 10gen/binary-i386/Packages
+ fd5b32e0445c8f81a8f2345b2c0968b7f1341ab322e1710c8b11e7f2ab1c843c            29630 10gen/binary-i386/Packages.gz
+SHA512:
+ 88e62371a7eb80301617e29e037aacd634236f6d964e5665d385efa759ac34c277826d81f9484e979a3951cf0484658607c32186aecfd669490388eef450b8a8           554089 10gen/binary-amd64/Packages
+ a5a0f89aeb72fe84ff094cfd8f7cbe1e17669837499c766a5af42b1be3aaf9bf68038f3f3798ff5568abc6dae024349bfc65897017d60052f1d7ee273682059f            29824 10gen/binary-amd64/Packages.gz
+ 52c282ac574b51de53f55e6431948a45df278e280f76aadcc6f8944ecd2f16d730c845d3450ff8a3661f344fe2c6e8a8312fdf5066bb6d0a0fb4cee034b86466           553461 10gen/binary-i386/Packages
+ 358e96cdb39613145f7fb5f4780aeee9de7297cd178d26d772c3e4a785b5a4763826ebf4744b5c04f008dcbfc017c8fff127e4e349829e5645e23967e56f6b8f            29630 10gen/binary-i386/Packages.gz
